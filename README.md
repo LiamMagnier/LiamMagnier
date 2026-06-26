@@ -8,7 +8,7 @@
   <a href="https://liams.dev"><b>Portfolio</b></a> ·
   <a href="https://figma.com/@LiamMagnier">Figma</a> ·
   <a href="https://x.com/Liammagnier7">X</a> ·
-  <a href="mailto:liam.magnier7@icloud.com">Email</a>
+  <a href="mailto:liam.magnier25@icloud.com">Email</a>
 </p>
 
 ---
