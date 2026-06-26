@@ -15,7 +15,7 @@
 
 ### About me
 
-- 🎓 Studying Computer Science (**BUT Informatique**) in France, working toward a software-engineering apprenticeship (*alternance*).
+- 🎓 Studying Computer Science (**BUT Informatique**) in France, want to be a (**Software Engineer**).
 - 🎨 I work across **design and code** — I prototype interfaces in Figma, then build them as clean, responsive front-ends.
 - 📱 Currently going deeper into **Swift / SwiftUI** for iOS and **C** for the fundamentals.
 - 🌐 Live portfolio → **[liams.dev](https://liams.dev)**
